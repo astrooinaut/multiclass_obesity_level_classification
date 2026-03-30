@@ -1,6 +1,6 @@
 # Multiclass Obesity Level Classification
 
-A machine learning project that classifies individuals into seven obesity levels based on eating habits, physical condition, and demographic features, using data from Mexico, Peru, and Colombia. The project compares a One-vs-Rest Logistic Regression model against a Sequential Neural Network, with full hyperparameter tuning, model explainability via SHAP, and feature importance analysis via LASSO.
+A machine learning project that classifies individuals into seven obesity levels based on eating habits, physical condition, and demographic features. The project compares a One-vs-Rest Logistic Regression model against a Sequential Neural Network, with full hyperparameter tuning, model explainability via SHAP, and feature importance analysis via LASSO.
 
 ---
 
@@ -41,7 +41,7 @@ Estimate an individual's obesity level based on lifestyle and physical attribute
 
 ## Dataset
 
-**Obesity Levels Dataset** — individuals from Mexico, Peru, and Colombia.
+**Obesity Levels Dataset**
 
 | Property | Details |
 |---|---|
